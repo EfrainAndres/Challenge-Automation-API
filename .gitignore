@@ -154,5 +154,4 @@ dmypy.json
 cython_debug/
 
 # Report
-assets/
-report.html
+report/
