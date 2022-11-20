@@ -43,4 +43,6 @@ pytest tests/e2e -s --gherkin-terminal-reporter -vv --html=report.html --capture
 ## Test Report
 - When running the tests, a folder called `report` is generated and inside the folder there is a file called `index.html` we open this file in the browser and we will be able to see the status of the test execution.
   - Test 1: Search for `dogs` and print a list of all images retrieved
+  ![test1](https://user-images.githubusercontent.com/20568951/202925768-847fd93e-6604-4fef-bafa-76ceb78b7682.png)
   - Test 2: Search for `dogecoin` and print a list of all urls
+  ![test2](https://user-images.githubusercontent.com/20568951/202925821-4d43e086-ec81-438f-93a0-440bc2b0e5d9.png)
