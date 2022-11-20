@@ -1,4 +1,4 @@
-# Southern Backend Challenge
+# Southern API Automation Challenge
 
 Build a small script that retrieves data from duckduckgo's api ( DuckDuckGo
  Instant Answer API ):
